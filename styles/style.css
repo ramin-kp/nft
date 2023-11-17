@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: kalame;
+}
+@font-face {
+  font-family: kalame;
+  font-weight: 900;
+  src: url("../font/WebFonts/_Woff2/KalamehWeb-Black.woff2") format("woff2");
+}
+@font-face {
+  font-family: kalame;
+  font-weight: bold;
+  src: url("../font/WebFonts/_Woff2/KalamehWeb-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: kalame;
+  font-weight: normal;
+  src: url("../font/WebFonts/_Woff2/KalamehWeb-Regular.woff2") format("woff2");
+}
